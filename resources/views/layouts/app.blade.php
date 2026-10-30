@@ -41,7 +41,7 @@
 
     <!-- Footer -->
     <footer class="max-w-6xl mx-auto p-4 mt-10 text-center text-gray-500 text-sm">
-        &copy; {{ date('Y') }} Barangay Matina Crossing Health Center
+        &copy; {{ date('Y') }} Davao City Health Center
     </footer>
 
 </body>
